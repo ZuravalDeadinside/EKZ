@@ -1,0 +1,10 @@
+W:\!Личная\Программирование C#\24laba\24laba\bin\Debug\24laba.exe.config
+W:\!Личная\Программирование C#\24laba\24laba\bin\Debug\24laba.exe
+W:\!Личная\Программирование C#\24laba\24laba\bin\Debug\24laba.pdb
+W:\!Личная\Программирование C#\24laba\24laba\obj\Debug\24laba.csprojAssemblyReference.cache
+W:\!Личная\Программирование C#\24laba\24laba\obj\Debug\_24laba.Form1.resources
+W:\!Личная\Программирование C#\24laba\24laba\obj\Debug\_24laba.Properties.Resources.resources
+W:\!Личная\Программирование C#\24laba\24laba\obj\Debug\24laba.csproj.GenerateResource.cache
+W:\!Личная\Программирование C#\24laba\24laba\obj\Debug\24laba.csproj.CoreCompileInputs.cache
+W:\!Личная\Программирование C#\24laba\24laba\obj\Debug\24laba.exe
+W:\!Личная\Программирование C#\24laba\24laba\obj\Debug\24laba.pdb
